@@ -25,3 +25,12 @@
 ### Images
 
 ### Takeaways
+
+
+## Assignment Template
+
+### Resources
+
+### Images
+
+### Takeaways
