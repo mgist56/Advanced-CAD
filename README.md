@@ -4,6 +4,6 @@
 
 ### Resources
 
-### Wiring
+### Images
 
 ### Takeaways
