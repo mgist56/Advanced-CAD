@@ -1,6 +1,24 @@
 # Advanced-CAD
 
-## Assignment Template
+## Gearbox
+
+### Resources
+
+### Images
+
+### Takeaways
+
+
+## Motion Study
+
+### Resources
+
+### Images
+
+### Takeaways
+
+
+## Stress Analysis
 
 ### Resources
 
