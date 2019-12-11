@@ -11,6 +11,7 @@ http://wiki.chssigma.com/index.php?title=User:Mgist56
 ### Resources
 
 ### Images
+<img src="Media/Gearbox.PNG" width="300">
 
 ### Takeaways
 
@@ -20,6 +21,7 @@ http://wiki.chssigma.com/index.php?title=User:Mgist56
 ### Resources
 
 ### Images
+<img src="Media/motionStudy.PNG" width="300">
 
 ### Takeaways
 
@@ -29,6 +31,7 @@ http://wiki.chssigma.com/index.php?title=User:Mgist56
 ### Resources
 
 ### Images
+<img src="Media/stressAnalysis.PNG" width="300">
 
 ### Takeaways
 
