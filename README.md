@@ -32,7 +32,7 @@ http://wiki.chssigma.com/index.php?title=User:Mgist56
 
 ### Images
 <img src="Media/stressAnalysis.PNG" width="300">
-<img src="Media/stressAnalysisvonMises.PNG" width="300">
+<img src="Media/stressAnalysisvonMises.PNG" width="550">
 
 ### Takeaways
 
