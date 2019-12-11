@@ -1,10 +1,17 @@
 # Advanced-CAD
+Meg Advanced CAD
+
+https://github.com/chssigma/Markdown_Cheatsheet
+
+http://wiki.chssigma.com/index.php?title=User:Mgist56
+
 
 ## Gearbox
 
 ### Resources
 
 ### Images
+<img src="Media/Gearbox.PNG" width="300">
 
 ### Takeaways
 
@@ -14,6 +21,7 @@
 ### Resources
 
 ### Images
+<img src="Media/motionStudy.PNG" width="300">
 
 ### Takeaways
 
@@ -23,6 +31,7 @@
 ### Resources
 
 ### Images
+<img src="Media/stressAnalysis.PNG" width="300">
 
 ### Takeaways
 
