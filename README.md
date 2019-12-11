@@ -1,4 +1,10 @@
 # Advanced-CAD
+Meg Advanced CAD
+
+https://github.com/chssigma/Markdown_Cheatsheet
+
+http://wiki.chssigma.com/index.php?title=User:Mgist56
+
 
 ## Gearbox
 
