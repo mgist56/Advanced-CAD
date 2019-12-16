@@ -10,7 +10,7 @@ First Advanced CAD; learning gear terminology, CAD configurations, and CAD equat
 ### Resources
 
 ### Images
-<img src="Media/Gearbox.PNG" width="300">
+<img src="Media/Gears.PNG" width="300">
 
 ### Takeaways
 When making a circular pattern for patterning teeth around the gear, select the circular curve of the outermost circle as the direction. The system of labeling each individual configuration with the module and the number of teeth is a simple way to not get the gears mixed up during assembly and can be applied to other configured parts. 
